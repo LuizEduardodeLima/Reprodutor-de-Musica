@@ -5,8 +5,6 @@ from PIL import Image, ImageTk
 from tkinter import filedialog
 import os
 from tkinter import messagebox
-from threading import Thread
-import threading
 
 class Tela:
     #Método construtor:
